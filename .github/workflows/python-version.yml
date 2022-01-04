@@ -1,5 +1,5 @@
 name: Python Version
-on: [push]
+on: push
 jobs:
   check-python-version
     runs-on: ubuntu-latest
